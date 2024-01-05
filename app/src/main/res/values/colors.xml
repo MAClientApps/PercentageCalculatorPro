@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="my_light_primary">#2196F3</color>
+
+
+    <color name="colorPrimary">#006b57</color>
+    <color name="colorPrimaryDark">#00382c</color>
+    <color name="colorAccent">#4b635b</color>
+    <color name="selected">#f1c40f</color>
+    <color name="btn_clr">#e67e22</color>
+    <color name="operator_btn_clr">#3498db</color>
+    <color name="green">#2ecc71</color>
+
+
+
+</resources>

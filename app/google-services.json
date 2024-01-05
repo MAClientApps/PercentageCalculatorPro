@@ -1,0 +1,191 @@
+{
+  "project_info": {
+    "project_number": "303082675252",
+    "project_id": "alixprojects-83241",
+    "storage_bucket": "alixprojects-83241.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303082675252:android:0d220902d23644cedfbe61",
+        "android_client_info": {
+          "package_name": "com.alix.statussaver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303082675252-7q35sub0ab1n9ul1uiuuu7phmt2bnbd0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATALFga4EfRcvLOgxbqH83bOp710r3GRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303082675252-7q35sub0ab1n9ul1uiuuu7phmt2bnbd0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "303082675252-0kq07bj7gu9vg9ucb4ap0s9vug6t2ivr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tiksaver.tiktokdownloader"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303082675252:android:b874f60f575d538adfbe61",
+        "android_client_info": {
+          "package_name": "com.alix.wordsearchgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303082675252-7q35sub0ab1n9ul1uiuuu7phmt2bnbd0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATALFga4EfRcvLOgxbqH83bOp710r3GRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303082675252-7q35sub0ab1n9ul1uiuuu7phmt2bnbd0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "303082675252-0kq07bj7gu9vg9ucb4ap0s9vug6t2ivr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tiksaver.tiktokdownloader"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303082675252:android:5354f30dce7611b3dfbe61",
+        "android_client_info": {
+          "package_name": "com.calculator.percentagcalculatorpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303082675252-7q35sub0ab1n9ul1uiuuu7phmt2bnbd0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATALFga4EfRcvLOgxbqH83bOp710r3GRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303082675252-7q35sub0ab1n9ul1uiuuu7phmt2bnbd0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "303082675252-0kq07bj7gu9vg9ucb4ap0s9vug6t2ivr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tiksaver.tiktokdownloader"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303082675252:android:99c03b3edb3b84dbdfbe61",
+        "android_client_info": {
+          "package_name": "com.nowatermark.tikdownloader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303082675252-7q35sub0ab1n9ul1uiuuu7phmt2bnbd0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATALFga4EfRcvLOgxbqH83bOp710r3GRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303082675252-7q35sub0ab1n9ul1uiuuu7phmt2bnbd0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "303082675252-0kq07bj7gu9vg9ucb4ap0s9vug6t2ivr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tiksaver.tiktokdownloader"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303082675252:android:a34e67f5fe7e4d01dfbe61",
+        "android_client_info": {
+          "package_name": "com.nowatermark.tiktokdownloader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303082675252-7q35sub0ab1n9ul1uiuuu7phmt2bnbd0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATALFga4EfRcvLOgxbqH83bOp710r3GRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303082675252-7q35sub0ab1n9ul1uiuuu7phmt2bnbd0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "303082675252-0kq07bj7gu9vg9ucb4ap0s9vug6t2ivr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tiksaver.tiktokdownloader"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-2629421338333327~4354516705"
+    }
+  ],
+  "configuration_version": "1"
+}
